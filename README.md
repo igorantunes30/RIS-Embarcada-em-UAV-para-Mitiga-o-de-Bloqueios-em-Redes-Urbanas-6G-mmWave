@@ -1,4 +1,4 @@
-# inteiro — Comparação de Cenários RIS com Algoritmo Genético
+# Comparação de Cenários RIS com Algoritmo Genético
 
 Resultados da comparação entre cinco cenários de comunicação sem fio em ambiente indoor, gerados pelo simulador SimRIS. O script `plot_comparacao.m` carrega os dados, calcula estatísticas e gera três gráficos de análise.
 
