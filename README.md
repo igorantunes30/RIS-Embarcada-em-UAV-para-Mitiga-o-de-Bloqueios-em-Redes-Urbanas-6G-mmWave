@@ -136,14 +136,3 @@ Curvas de fitness ao longo das iterações (eixo esquerdo para α = 0.1 e α = 0
 4. **α = 0.1 prioriza equidade mas é limitado pela geometria:** a posição central encontrada (~[35, 19, 4] m) melhora os usuários penalizados, porém não consegue eliminar a oclusão total do UE 16 — um ponto cego estrutural do ambiente.
 
 5. **α = 0.25 e α = 0.5 convergem para o mesmo resultado:** as funções fitness distintas levaram à mesma posição ótima, indicando que nesta região o benefício é robusto independentemente do peso relativo entre média e mínimo.
-
----
-
-## Como Executar
-
-```matlab
-% No MATLAB, com a pasta ris/ no path:
-run('inteiro/plot_comparacao.m')
-```
-
-O script carrega os `.mat` e os CSVs, imprime a tabela de estatísticas no terminal e salva os três gráficos (CDF, boxplot e barras) como `.png` na própria pasta.
