@@ -1,0 +1,11 @@
+
+	Trial License -- for use to evaluate programs for possible purchase as an end-user only.
+
+
+Cenario                       Medio     5 pct   Mediana
+-------------------------------------------------------
+No RIS                       2.2395    0.0194    0.3143
+RIS fixed                    2.3233    0.0535    0.4301
+RIS opt \alpha=0.1           2.5726    0.1412    0.9817
+RIS opt \alpha=0.25          3.7323    0.4305    3.0890
+RIS opt \alpha=0.5           3.7323    0.4306    3.0889
